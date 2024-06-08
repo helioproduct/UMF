@@ -7,7 +7,6 @@ a = 1.0
 N = 100
 M = 1000
 
-# Discretization
 dx = l / N
 dt = T / M
 x = np.linspace(0, l, N + 1)
