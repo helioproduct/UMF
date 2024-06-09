@@ -6,4 +6,3 @@
     <img src="img/2.png" alt="Image 2" style="width: 48%;"/>
 </div>
 
-![Problem Statement](img/условия.png)
